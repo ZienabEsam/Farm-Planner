@@ -2,11 +2,11 @@
 This project is an end-to-end AI-powered farm planning and management system that leverages machine learning and deep learning to support farmers with real-time insights and decision-making tools.
 The system includes:
 
-# Drought and Flood Prediction using classification models trained on NASA POWER climate data.
+Drought and Flood Prediction using classification models trained on NASA POWER climate data.
 
-# Plant Disease Detection through image processing and deep learning (CNN-based classification).
+Plant Disease Detection through image processing and deep learning (CNN-based classification).
 
-# Low-Code Mobile App built on Thunkable to deliver real-time alerts, predictions, and personalized recommendations directly to farmers.
+Low-Code Mobile App built on Thunkable to deliver real-time alerts, predictions, and personalized recommendations directly to farmers.
 
 >> Features:
 
