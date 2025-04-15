@@ -8,7 +8,8 @@ The system includes:
 
 # Low-Code Mobile App built on Thunkable to deliver real-time alerts, predictions, and personalized recommendations directly to farmers.
 
->> Features
+>> Features:
+
 1.Real-time sensor data simulation and processing
 
 2.Azure-based pipeline (IoT Hub, Stream Analytics, SQL DB)
