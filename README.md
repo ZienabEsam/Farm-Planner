@@ -1,11 +1,16 @@
 # Farm-Planner
-*Overview:* Led a cross-functional team in building an AI-powered system for farm planning and management, building an AI model for drought and food detection, and early plant disease detection using image processing and deep learning, with a companion mobile app to support farmers through real-time insights and notifications.
+*Overview:*
+Led a cross-functional team in building an AI-powered system for farm planning and management, building an AI model for drought and food detection, and early plant disease detection using image processing and deep learning, with a companion mobile app to support farmers through real-time insights and notifications.
+
 *Key Contributions:*
+
 Oversaw the entire project lifecycle, coordinating tasks for AI model development and integration of mobile applications.
 Held regular 1:1 meetings to follow up on progress and provide guidance on technical tasks.
 Oversaw the design and training of the deep learning model, ensuring high-quality prediction through proper preprocessing.
 Supervised the development of a low-code mobile application.
+
 *Details:*
+
 This project is an end-to-end AI-powered farm planning and management system that leverages machine learning and deep learning to support farmers with real-time insights and decision-making tools.
 The system includes:
 
