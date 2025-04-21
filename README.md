@@ -5,18 +5,25 @@ Led a cross-functional team in building an AI-powered system for farm planning a
 *Key Contributions:*
 
 Oversaw the entire project lifecycle, coordinating tasks for AI model development and integration of mobile applications.
+
 Held regular 1:1 meetings to follow up on progress and provide guidance on technical tasks.
+
 Oversaw the design and training of the deep learning model, ensuring high-quality prediction through proper preprocessing.
-Supervised the development of a low-code mobile application.
+
+Supervised the development of a low-code mobile application.[LinkedInPost](https://www.linkedin.com/posts/activity-7250125691533332481-ogWD?utm_source=share&utm_medium=member_desktop)
 
 *Details:*
 
-This project is an end-to-end AI-powered farm planning and management system that leverages machine learning and deep learning to support farmers with real-time insights and decision-making tools.
+This project is an end-to-end AI-powered farm planning and management system that leverages machine learning
+and deep learning to support farmers with real-time insights and decision-making tools.
 The system includes:
+
 
 Drought and Flood Prediction using classification models trained on NASA POWER climate data.
 
+
 Plant Disease Detection through image processing and deep learning (CNN-based classification).
+
 
 Low-Code Mobile App built on Thunkable to deliver real-time alerts, predictions, and personalized recommendations directly to farmers.
 
